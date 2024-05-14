@@ -86,8 +86,8 @@
 <a href="https://github.com/r1ckmoreno" target="_blank"><img src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/tecnologia.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/r1ckmoreno" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
+| Créditos: <a href="https://github.com/r1ckmoreno" target="_blank">© 2024 Moreno</a><br />
+| Última atualização: 14/05/2024
 </td>
 </tr>
 <tr>
