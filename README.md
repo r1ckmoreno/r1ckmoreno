@@ -30,7 +30,6 @@
 </td>
 </a>
 </td>
-raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
 </tr>
