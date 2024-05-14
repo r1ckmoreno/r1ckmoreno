@@ -63,7 +63,8 @@
 - :basketball: &nbsp; Meus hobbies são, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, viagens, violão e guitarra.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:rickcesar1234@gmail.com@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="[Curriculo Henrique Moreno.pdf](https://github.com/r1ckmoreno/r1ckmoreno/files/15307510/Curriculo.Henrique.Moreno.pdf)" target="_blank">Currículo</a> para mais informações.
+- :page_facing_up: &nbsp; Veja meu Currículo para mais informações.
+Curriculo Henrique Moreno.pdf](https://github.com/r1ckmoreno/r1ckmoreno/files/15307510/Curriculo.Henrique.Moreno.pdf)
 </p>
 </div>
 </div>
