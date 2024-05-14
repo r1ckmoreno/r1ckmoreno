@@ -19,7 +19,6 @@
 <td><a href="https://wa.me/5531975881413" target="_blank"><img src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/riick_moreno/" target="_blank"><img src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="https://www.linkedin.com/in/henrique-moreno-152b17284/" target="_blank"><img src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </a>
