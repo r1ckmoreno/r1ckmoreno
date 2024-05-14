@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 19 anos, moro em BH e sou um amante do mundo da tecnologia desde sempre. Atualmente curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 19 anos, moro em BH e sou um amante do mundo da tecnologia desde sempre. Atualmente curso Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
