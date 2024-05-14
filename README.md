@@ -58,11 +58,10 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :🧑‍💻: &nbsp; Meus hobbies são tecnologia, videogames, viagens, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:rickcesar1234@gmail.com@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- 👨‍🎓 Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
+- 🧑‍💻 Meus hobbies são tecnologia, videogames, viagens, violão e guitarra.<br />
+- 💭 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- 📧 Para me encontrar, esse é meu <a href="mailto:rickcesar1234@gmail.com@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="https://github.com/r1ckmoreno/r1ckmoreno/files/15307510/Curriculo.Henrique.Moreno.pdf"target="_blank">Currículo </a> para mais informações.
 </p>
 </div>
