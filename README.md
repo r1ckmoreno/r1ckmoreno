@@ -77,6 +77,76 @@
 -----
 
 <div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
+<div>
+<table>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td>
+<img align="center" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/R1.png?raw=true" alt="R1"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/R2.png?raw=true" alt="R2"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/R3.png?raw=true" alt="R3"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/R4.png?raw=true" alt="R4"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/R5.png?raw=true" alt="R5"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/R6.png?raw=true" alt="R6"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+</div>
+</details>
+</div>
+
+<div align="center">
+
+</div>
+<div>
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="mailto:r1ckmoreno@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
+</td>
+<td>
+<a href="https://github.com/r1ckmoreno" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
+
+<div>
 <table align="center">
 <tr>
  <td align="center" colspan="2"></td>
