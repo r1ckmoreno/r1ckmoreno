@@ -83,7 +83,7 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/r1ckmoreno" target="_blank"><img src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://github.com/r1ckmoreno" target="_blank"><img src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/tecnologia.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
 | Créditos: <a href="https://github.com/r1ckmoreno" target="_blank">© 2024 Aramuni</a><br />
