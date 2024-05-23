@@ -105,6 +105,7 @@
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/xcode.png?raw=true"/></a></code>
+&nbsp; 
 </div>
 
 -----
