@@ -76,8 +76,6 @@
 
 -----
 
------
-
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
@@ -104,6 +102,7 @@
 &nbsp;
 <code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/xcode.png?raw=true"/></a></code>
 </div>
+
 -----
 
 </div>
