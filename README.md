@@ -76,6 +76,37 @@
 
 -----
 
+-----
+
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/python.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/c.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/cpp.svg?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/java.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/html.svg?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/css.svg?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp;  
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/mysql.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/dbeaver.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/intellij.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/r1ckmoreno/r1ckmoreno/blob/main/img/xcode.png?raw=true"/></a></code>
+</div>
+
+-----
 
 </div>
 <div>
